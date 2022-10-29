@@ -8,6 +8,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xM42UF&hide=html,css,javascript,php,scss&layout=compact&langs_count=50&theme=gruvbox"/>
 </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM42UF&show_icons=true) 
+<p align="center"> ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM42UF&show_icons=true) </p>
 
 
