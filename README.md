@@ -5,18 +5,9 @@
  <a href="mailto:telapokaworld@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" height="30" width="60" /></a>
 </p>
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xM42UF&hide=html,css,javascript,scss&layout=compact&langs_count=50&theme=gruvbox"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xM42UF&hide=html,css,javascript,php,scss&layout=compact&langs_count=50&theme=gruvbox"/>
 </p>
-
-
-<!-- github stats starts here  -->
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xM42UF)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM42UF&show_icons=true) </p>
 
 
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM42UF&show_icons=true)
-
-<br/>
-<p align="center">
-<!-- github stats ends here  -->
