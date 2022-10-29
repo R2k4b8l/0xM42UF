@@ -11,6 +11,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xM42UF&show_icons=true"/>
 </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM42UF&show_icons=true)
-
 
