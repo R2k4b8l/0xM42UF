@@ -7,3 +7,16 @@
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xM42UF&hide=html,css,scss&layout=compact&langs_count=50&theme=gruvbox"/>
 </p>
+
+
+<!-- github stats starts here  -->
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xM42UF)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM42UF)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM42UF&show_icons=true)
+
+<br/>
+<p align="center">
+<!-- github stats ends here  -->
